@@ -16,10 +16,7 @@ located at `analysis/data/rawdata`.
 Everything related to preprocessing is in the `preprocessing` directory.
 
 The analyses themselves are organized by which figure they contribute to,
-and can be found in `analysis/scripts/figures`. 
-
-Everything else in the `analysis/scripts` directory are either helper
-functions or earlier versions of analyses. 
+and can be found in `analysis`. 
 
 To adhere to our data sharing agreements, I'm stripping this repository of
 all data and txt files.
