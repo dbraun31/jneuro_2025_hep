@@ -1,0 +1,9 @@
+**/*.rds
+**/*.npy
+**/*.txt
+**/*.feather
+**/*.tiff
+**/*.tif
+**/*.rdata
+**/*.pkl
+**/*.pyc
